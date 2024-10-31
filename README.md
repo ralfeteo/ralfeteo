@@ -44,10 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ralfeteo/ralfeteo/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/ralfeteo/count.svg?"  />
 </div>
